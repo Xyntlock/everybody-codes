@@ -1,0 +1,17 @@
+{
+    "name": "everybody-codes",
+    "version": "1.0.0",
+    "type": "module",
+    "repository": "https://github.com/Xyntlock/everybody-codes.git",
+    "author": "Xyntlock <jacobjohn1005@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "tsx": "^4.19.2"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^1.9.4",
+        "@types/node": "^22.9.0",
+        "node": "^22.11.0",
+        "typescript": "^5.6.3"
+    }
+}
